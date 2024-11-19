@@ -6,6 +6,16 @@ export default {
       sans: "Open Sans, sans-serif",
       poppins: "Poppins, sans-serif",
     },
+    screens: {
+      sm: "425px",
+      // => @media (min-width: 425px) { ... }
+
+      md: "675px",
+      // => @media (min-width: 675px) { ... }
+
+      lg: "1280px",
+      // => @media (min-width: 1280px) { ... }
+    },
     extend: {
       colors: {
         violet: "hsl(257, 40%, 49%)",
@@ -17,6 +27,9 @@ export default {
       backgroundImage: {
         "desktop-bg": "url('bg-desktop.svg')",
         "mobile-bg": "url('bg-mobile.svg')",
+      },
+      boxShadow: {
+        button: "0 5px 8px rgba(0, 0, 0, 0.2)",
       },
     },
   },
