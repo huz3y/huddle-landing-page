@@ -1,5 +1,5 @@
-import Hero from "../ui/hero";
-import Logo from "../ui/logo";
+import Hero from "../ui/Hero";
+import Logo from "../ui/Logo";
 
 function ImageSide() {
   return (

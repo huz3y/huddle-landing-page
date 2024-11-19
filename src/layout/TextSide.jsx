@@ -1,5 +1,5 @@
 import TextBox from "../ui/TextBox";
-import Social from "../ui/social";
+import Social from "../ui/Social";
 
 function TextSide() {
   return (

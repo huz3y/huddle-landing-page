@@ -1,4 +1,4 @@
-function button({ children }) {
+function Button({ children }) {
   return (
     <a
       href="#"
@@ -9,4 +9,4 @@ function button({ children }) {
   );
 }
 
-export default button;
+export default Button;
