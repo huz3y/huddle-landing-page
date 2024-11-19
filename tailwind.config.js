@@ -25,8 +25,8 @@ export default {
         screen: "100dvh",
       },
       backgroundImage: {
-        "desktop-bg": "url('./public/bg-desktop.svg')",
-        "mobile-bg": "url('./public/bg-mobile.svg')",
+        "desktop-bg": "url('bg-desktop.svg')",
+        "mobile-bg": "url('bg-mobile.svg')",
       },
       boxShadow: {
         button: "0 5px 8px rgba(0, 0, 0, 0.2)",
