@@ -1,6 +1,6 @@
-import Paragraph from "./paragraph";
-import Button from "./button";
-import Heading from "./heading";
+import Paragraph from "./Paragraph";
+import Button from "./Button";
+import Heading from "./Heading";
 
 function TextBox() {
   return (

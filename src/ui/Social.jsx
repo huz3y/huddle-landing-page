@@ -1,6 +1,6 @@
-function social() {
+function Social() {
   return (
-    <div className="mt-16 flex items-center justify-center gap-2 md:absolute md:bottom-9 md:right-14">
+    <div className="mb-5 mt-16 flex items-center justify-center gap-2 md:absolute md:bottom-9 md:right-14 md:mb-0">
       <a href="#" className="">
         <svg className="h-10 w-10 fill-purple-50 transition-colors hover:fill-magenta">
           <use href="icons.svg#icon-facebook" />
@@ -20,4 +20,4 @@ function social() {
   );
 }
 
-export default social;
+export default Social;
