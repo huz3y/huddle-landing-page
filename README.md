@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/huz3y/huddle-landing-page)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://huddle-landing-page-7cag.vercel.app)
 
 ## My process
 
