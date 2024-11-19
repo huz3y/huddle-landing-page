@@ -16,7 +16,7 @@ export default {
       },
       backgroundImage: {
         "desktop-bg": "url('bg-desktop.svg')",
-        "mobile-bg": "url('bg-mobile.png')",
+        "mobile-bg": "url('bg-mobile.svg')",
       },
     },
   },
