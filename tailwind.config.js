@@ -11,6 +11,13 @@ export default {
         violet: "hsl(257, 40%, 49%)",
         magenta: "hsl(300, 69%, 71%)",
       },
+      height: {
+        screen: "100dvh",
+      },
+      backgroundImage: {
+        "desktop-bg": "url('bg-desktop.svg')",
+        "mobile-bg": "url('bg-mobile.png')",
+      },
     },
   },
   plugins: [],
